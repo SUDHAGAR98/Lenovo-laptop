@@ -15,5 +15,16 @@ public class Employe {
 
 	        }
 	        
+
+	        private void method4() {
+				System.out.println("4");
+
+	        }
+	        
+	        
+	        
+	        
+	        
+	        
 	        
 }
